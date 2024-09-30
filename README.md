@@ -43,6 +43,6 @@ Interactive user interface,
 
 File Structure
 HomeC.csv: Input dataset,
-Second IoT Dataset: RT_IoT2022
+Second IoT Dataset: RT_IoT2022,
 Policies.docx: Initial policies document,
 AdjustedPolicies.docx: Output file for adjusted policies,
