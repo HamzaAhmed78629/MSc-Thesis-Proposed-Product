@@ -1,6 +1,8 @@
 # MSc-Thesis-Proposed-Product
 A Deep Learning-Based Privacy Compliance Framework for IoT Applications
 
+Thesis is attached too.
+
 This repository contains a Python-based tool for analyzing IoT data, detecting threats, and checking compliance against various regulatory standards.
 
 Features
